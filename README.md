@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav7903&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav7903" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Dart**
-
 - 📫 How to reach me **abhinavashish4@gmail.com**
 
 <p align="left">
