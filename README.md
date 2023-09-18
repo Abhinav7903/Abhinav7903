@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I’m a full-stack developer from India.<br><br>- 📚 I'm currently learning Firebase web</p>
+<p align="left">I’m a full-stack developer from Bharat.<br><br>- 📚 I'm currently learning Firebase web</p>
 
 ###
 
