@@ -65,7 +65,7 @@ AWS • Prometheus • Grafana • Uptime Kuma • Postman • Git • React
 - 📈 Implemented **full-stack monitoring & alerting** with Prometheus + Grafana
 - 🧠 Improved **dark-web intelligence engine** performance & accuracy
 - 🟢 Built automation pipelines for **node deployment & system recovery**
-- 🧩 Added **caching layers** across backend microservices to boost performance :contentReference[oaicite:1]{index=1}
+- 🧩 Added **caching layers** across backend microservices to boost performance.
 
 ---
 
