@@ -72,7 +72,7 @@ AWS • Prometheus • Grafana • Uptime Kuma • Postman • Git • React
 ### 🧪 Security & Research Interests
 
 Blockchain • OSINT • Dark-Web Analytics • Threat Intelligence  
-Network Security • Privacy & Anonymity Systems • Secure Protocols :contentReference[oaicite:2]{index=2}
+Network Security • Privacy & Anonymity Systems 
 
 ---
 
