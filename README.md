@@ -1,46 +1,82 @@
-
 <h1 align="center">Hi 👋, I'm Abhinav Ashish</h1>
-<h3 align="center">A passionate FullStack Developer from Bharat </h3>
+<h3 align="center">Senior Software Engineer • Backend | Go | Distributed Systems | Security</h3>
+
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+---
 
-<div align="center">
+### 👨‍💻 About Me
+
+- 🚀 Senior Software Engineer at **Hornet Decentratech Pvt. Ltd.**
+- 🛠️ Building backend systems, distributed services, and monitoring pipelines  
+- 🧩 Worked on **blockchain node deployments, access control systems, caching layers, and infra automation**
+- 🔍 Strong focus on **performance, security, and reliability**
+- 📍 From Bharat 🇮🇳  
+- 📫 Reach me at **abhinavashish4@gmail.com**
+
+---
+
+### 🌐 Connect With Me
+
+<div align="left">
   <a href="https://www.linkedin.com/in/abhinav-ashish-8328bb1b5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="28" />
   </a>
   <a href="mailto:abhinavashish4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="28" />
   </a>
   <a href="https://twitter.com/Abhinavashish14" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="28" />
   </a>
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abhinav7903/count.svg?"  />
+### ⚙️ Tech Stack
+
+**Languages & Databases**
+
+Go • Python • Java • JavaScript/TypeScript • PostgreSQL • Redis • MongoDB
+
+**Systems & DevOps**
+
+Linux • Docker • Load Balancing • Caching • Cronjobs • Service Automation
+
+**Cloud, Monitoring & Tools**
+
+AWS • Prometheus • Grafana • Uptime Kuma • Postman • Git • React
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
 </div>
 
-###
+---
 
-<h3 align="center">Hey there 👋</h3>
+### 🔥 Highlights
 
-###
+- ⚡ Migrated system architecture from **user-level to organization-level access model**
+- 📈 Implemented **full-stack monitoring & alerting** with Prometheus + Grafana
+- 🧠 Improved **dark-web intelligence engine** performance & accuracy
+- 🟢 Built automation pipelines for **node deployment & system recovery**
+- 🧩 Added **caching layers** across backend microservices to boost performance :contentReference[oaicite:1]{index=1}
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav7903&show_icons=true&locale=en" alt="abhinav7903" /></p>
+### 🧪 Security & Research Interests
 
+Blockchain • OSINT • Dark-Web Analytics • Threat Intelligence  
+Network Security • Privacy & Anonymity Systems • Secure Protocols :contentReference[oaicite:2]{index=2}
 
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhinav7903&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav7903&show_icons=true&locale=en&layout=compact" alt="abhinav7903" /></p>
+### 📊 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinav7903&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav7903&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav7903&theme=aura_dark)
