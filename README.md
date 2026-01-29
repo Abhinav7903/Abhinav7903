@@ -1,52 +1,43 @@
-<h1 align="center">Hi 👋, I'm Abhinav Ashish</h1>
-<h3 align="center">Senior Software Engineer • Backend | Go | Distributed Systems | Security</h3>
-
-<div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+<h1 align="center">Abhinav Ashish</h1>
+<h3 align="center">
+Senior Software Engineer | Backend & Distributed Systems | Go | Security & Blockchain
+</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🚀 Senior Software Engineer at **Hornet Decentratech Pvt. Ltd.**
-- 🛠️ Building backend systems, distributed services, and monitoring pipelines  
-- 🧩 Worked on **blockchain node deployments, access control systems, caching layers, and infra automation**
-- 🔍 Strong focus on **performance, security, and reliability**
-- 📍 From Bharat 🇮🇳  
-- 📫 Reach me at **abhinavashish4@gmail.com**
+Senior Software Engineer and founding team member at **Hornet Decentratech Pvt. Ltd.**, with ownership of backend architecture and production systems in security-critical environments.
 
----
+I work primarily on **distributed backend systems**, **blockchain infrastructure**, and **crypto-forensics platforms**, focusing on scalability, reliability, and operational robustness. I have experience taking systems from early design to production deployment and scaling them under real-world constraints.
 
-### 🌐 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abhinav-ashish-8328bb1b5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="28" />
-  </a>
-  <a href="mailto:abhinavashish4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="28" />
-  </a>
-  <a href="https://twitter.com/Abhinavashish14" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&style=for-the-badge" height="28" />
-  </a>
-</div>
+Based in India.  
+Contact: **abhinavashish4@gmail.com**
 
 ---
 
-### ⚙️ Tech Stack
+### Professional Focus
 
-**Languages & Databases**
+- Backend system design and high-performance services in Go  
+- Distributed systems and infrastructure reliability  
+- Blockchain node operations and analytics pipelines  
+- Security, observability, and operational automation  
 
-Go • Python • Java • JavaScript/TypeScript • PostgreSQL • Redis • MongoDB
+---
 
-**Systems & DevOps**
+### Technology Stack
 
-Linux • Docker • Load Balancing • Caching • Cronjobs • Service Automation
+**Languages & Databases**  
+Go, Python, Java, JavaScript/TypeScript, PostgreSQL, Redis, MongoDB, Neo4j
 
-**Cloud, Monitoring & Tools**
+**Backend & Systems**  
+Linux (Ubuntu), REST API design, concurrency, caching strategies, service automation, cron-based scheduling
 
-AWS • Prometheus • Grafana • Uptime Kuma • Postman • Git • React
+**Infrastructure & Observability**  
+Docker, load balancing, Prometheus, Grafana, Uptime Kuma, backup and recovery
+
+**Cloud & Tools**  
+AWS, Git, Postman, React
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />
@@ -59,24 +50,25 @@ AWS • Prometheus • Grafana • Uptime Kuma • Postman • Git • React
 
 ---
 
-### 🔥 Highlights
+### Selected Work & Impact
 
-- ⚡ Migrated system architecture from **user-level to organization-level access model**
-- 📈 Implemented **full-stack monitoring & alerting** with Prometheus + Grafana
-- 🧠 Improved **dark-web intelligence engine** performance & accuracy
-- 🟢 Built automation pipelines for **node deployment & system recovery**
-- 🧩 Added **caching layers** across backend microservices to boost performance.
-
----
-
-### 🧪 Security & Research Interests
-
-Blockchain • OSINT • Dark-Web Analytics • Threat Intelligence  
-Network Security • Privacy & Anonymity Systems 
+- Migrated core platform from user-level access to an organization-level, multi-tenant authorization model  
+- Implemented full observability and alerting, significantly improving incident detection and system uptime  
+- Improved dark-web intelligence and crawling systems for faster and more accurate result retrieval  
+- Standardized infrastructure setup and recovery workflows for blockchain nodes and backend services  
+- Introduced multi-layer caching across microservices to reduce latency under high concurrency  
 
 ---
 
-### 📊 GitHub Stats
+### Security & Research Interests
+
+Blockchain systems, OSINT, dark-web analytics, threat intelligence  
+Network security, privacy-preserving systems, secure backend design
+
+---
+
+### GitHub Activity
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhinav7903&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhinav7903&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav7903&theme=aura_dark)
