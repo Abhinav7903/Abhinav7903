@@ -12,7 +12,7 @@ Building scalable backend systems, distributed infrastructure, and blockchain an
 
 <p align="center">
 🌐 Portfolio: https://abhinav7903.github.io/Portfolio/ <br>
-💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/abhinav-ashish4/) <br>
+💼 LinkedIn: https://www.linkedin.com/in/abhinav-ashish4 <br>
 🐙 GitHub: https://github.com/abhinav7903
 </p>
 
