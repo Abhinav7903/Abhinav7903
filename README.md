@@ -1,7 +1,20 @@
 <h1 align="center">Abhinav Ashish</h1>
+
 <h3 align="center">
-Senior Software Engineer | Backend & Distributed Systems | Go | Security & Blockchain
+Senior Software Engineer | Go Backend Developer | Distributed Systems | Blockchain Infrastructure
 </h3>
+
+<p align="center">
+Building scalable backend systems, distributed infrastructure, and blockchain analytics platforms.
+</p>
+
+
+
+<p align="center">
+🌐 Portfolio: https://abhinav7903.github.io/Portfolio/ <br>
+💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/abhinav-ashish4/) <br>
+🐙 GitHub: https://github.com/abhinav7903
+</p>
 
 ---
 
